@@ -2,7 +2,7 @@ int lenSize = 100;
 boolean change = false;
 
 public void setup() {
-  size(600, 600);
+  size(400, 400);
 }
 
 public void draw() {
